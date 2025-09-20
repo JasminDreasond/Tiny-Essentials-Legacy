@@ -26,3 +26,10 @@ A lightweight MySQL connector that offers a simplified interface for making quer
 A utility library used internally in various Puddy Club projects. It includes a collection of small helper functions and patching tools. The logic is unchanged, though some functions may now rely on modern JavaScript syntax to remain compatible.
 
 These modules will only receive updates for critical bug fixes. Feedback is welcome and may lead to fully reworked versions being released in parallel with the current official code collection.
+
+---
+
+## Back to Tiny Essentials
+
+Did you like this module? It’s part of the **Tiny Essentials** collection — a set of minimal yet powerful tools to make development easier.
+👉 [Click here to explore more Tiny Essentials modules](https://github.com/JasminDreasond/Tiny-Essentials)
